@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:kurt@kurthaffner.com
+Expires: 2022-01-01T00:00:00.000Z
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/25D197A17F30F5482853B092A8ED523D52494F64
+Preferred-Languages: en
+Canonical: https://kurthaffner.com/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEJdGXoX8w9UgoU7CSqO1SPVJJT2QFAmE45MEACgkQqO1SPVJJ
+T2RmOgv+IV2xuPVf7FlBjzGELuyPkWBwbYWFQyxE1lmW8MkCcUDsZZQzPhurAQLG
+aw103tlKzumMsCx7oN2nuDYIA7YGe6PVopjEaBeTdmpkcCEWq7wkQRMma7HH+4Tv
+NRnHjQBHCQwEHGJhhRFrXMySmZrHEYTFCQuheSjcGtuHkEkPq3t7nw//Wg7CJ0Vt
+fNsBBmt/ENXZ8vHV+h5p6DLga1oRe31b7vt0C5SKH4CsrZTTgaQl9V6O0HJBwGsC
+9eCQFFr0F+X2eP1A/dIBMv274/rvePGAjyH+vb7TFwBzz3AQpWCBvRuM4ls4+S8I
+0qGeqXnO6nfAyUODuiUpKuMDZ6pBhxzj3TcnpZlEb3Qo2jcy72QtdYEtOpe+s2HS
+g+rNiKHufBAVAmLQBddSiNegZ/1PTJQR0Hlgq5gFztVfDM/CuWobK5vNK8eVRPRV
+W/5OqCAKO72TybRTcSQkKAT6vPFk664BO7Lb9HJLO0jMmtjUz7RPg10gxCD0B1Aw
+YZI7bdki
+=L+wW
+-----END PGP SIGNATURE-----
